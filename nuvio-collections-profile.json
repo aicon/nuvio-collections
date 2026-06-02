@@ -192,7 +192,7 @@
     "pinToTop": true,
     "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
-    "backdropImageUrl": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/151495fa-017a-433e-b22c-cd5284bf07de/streaming_wars.jpg",
+    "backdropImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/streaming.jpg",
     "focusGlowEnabled": true
   },
   {
@@ -220,8 +220,8 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://nuvioapp.space/uploads/covers/e065683e-8588-491a-87ce-57aed17de117.jpg",
-        "coverImageUrl": "https://nuvioapp.space/uploads/covers/2dc316b7-d352-44a5-8812-51fc36764ed2.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/70s.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/70s.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -257,8 +257,8 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://nuvioapp.space/uploads/covers/939476ac-33f7-4931-8d01-782e8ca9177f.jpg",
-        "coverImageUrl": "https://i.postimg.cc/bNYQJCkS/EBR_TVA_WW_1980s.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/80s.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/80s.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -294,8 +294,8 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://nuvioapp.space/uploads/covers/25dc4acf-9b6b-4b5c-99c3-e8ef354e65fa.jpg",
-        "coverImageUrl": "https://i.postimg.cc/44Q6Xk7t/EBR_TVA_WW_1990s.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/90s.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/90s.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -331,8 +331,8 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://nuvioapp.space/uploads/covers/3d70da09-2d0e-489e-b76a-d6c04f851e33.jpg",
-        "coverImageUrl": "https://i.postimg.cc/c1BRdyg3/EBR_TVA_WW_2000s.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/00snew.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/00snew.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -368,8 +368,8 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://nuvioapp.space/uploads/covers/7dfab725-42aa-4bf3-9df1-da6066ac8973.jpg",
-        "coverImageUrl": "https://i.postimg.cc/9FXGM8Zp/EBR_TVA_WW_2010s.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/10snew.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/10snew.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -405,8 +405,8 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://nuvioapp.space/uploads/covers/8b245d6d-3a8d-416a-8c15-b17dc237ebc7.jpg",
-        "coverImageUrl": "https://i.postimg.cc/bY9xqcDt/EBR_TVA_WW_2020s.png",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/20s.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/20s.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -425,7 +425,7 @@
     "pinToTop": true,
     "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
-    "backdropImageUrl": "https://nuvioapp.space/uploads/covers/1cf9b279-a492-40ae-94f7-857a32c4031f.jpg",
+    "backdropImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/decades.jpg",
     "focusGlowEnabled": true
   },
   {
