@@ -232,7 +232,7 @@
         "tileShape": "LANDSCAPE",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2020s.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/2020s.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2020s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/2020s.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/backdrop/2020s.jpg",
         "catalogSources": [
           {
@@ -642,7 +642,7 @@
         "coverEmoji": "",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2020s.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2020s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/2020s.png",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/2020s.webp",
         "catalogSources": [],
         "focusGifEnabled": true,
