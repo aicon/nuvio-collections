@@ -24,8 +24,10 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/disney1.gif",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/disney2.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/focused/disney-plus.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/cover/disney-plus.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/title/disney-plus.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/backdrop/disney-plus.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -61,8 +63,10 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/netflix1.gif",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/netflix2.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/focused/netflix.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/cover/netflix.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/title/netflix.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/backdrop/netflix.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -98,8 +102,10 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/hbo1.gif",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/hbo2.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/focused/hbo-max.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/cover/hbo-max.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/title/hbo-max.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/backdrop/hbo-max.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -135,8 +141,10 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/skyshowtime1.gif",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/skyshowtime2.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/focused/skyshowtime.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/cover/skyshowtime.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/title/skyshowtime.jpg",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/backdrop/skyshowtime.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -172,8 +180,10 @@
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/primevideo1.gif",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/primevideo2.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/focused/prime-video.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/cover/prime-video.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/title/prime-video.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/backdrop/prime-video.jpg",
         "catalogSources": [
           {
             "type": "movie",
@@ -197,7 +207,7 @@
   },
   {
     "id": "collection-af74ade9",
-    "title": "Decades",
+    "title": "Évtized",
     "folders": [
       {
         "id": "folder-202d55dd",
@@ -442,7 +452,7 @@
   },
   {
     "id": "collection-Y2HQBZ5I",
-    "title": "By Decade",
+    "title": "Évtized szerint",
     "folders": [
       {
         "id": "folder-N0O4TY4I",
