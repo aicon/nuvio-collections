@@ -200,149 +200,38 @@
     "title": "Decades",
     "folders": [
       {
-        "id": "folder-7cd0f553",
-        "title": "70's",
+        "id": "folder-202d55dd",
+        "title": "2020's",
         "sources": [
           {
             "type": "movie",
             "genre": "",
             "addonId": "aio-metadata",
             "provider": "addon",
-            "catalogId": "tmdb.discover.movie.70s_movies_kiad_si_v_1970_1979.moo2fe0c"
+            "catalogId": "tmdb.discover.movie.2020s_movies_kiad_si_v_2020_2029.moo1e61j"
           },
           {
             "type": "series",
             "genre": "",
             "addonId": "aio-metadata",
             "provider": "addon",
-            "catalogId": "tmdb.discover.series.70s_series_kiad_si_v_1970_1979.moo1ndl9"
+            "catalogId": "tmdb.discover.series.2020s_series_kiad_si_v_2020_2029.moo1xk36"
           }
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/70s.jpg",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/70s.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/20snew.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/20s.jpg",
         "catalogSources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.70s_movies_kiad_si_v_1970_1979.moo2fe0c"
+            "catalogId": "tmdb.discover.movie.2020s_movies_kiad_si_v_2020_2029.moo1e61j"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.70s_series_kiad_si_v_1970_1979.moo1ndl9"
-          }
-        ],
-        "focusGifEnabled": true
-      },
-      {
-        "id": "folder-f0b67db2",
-        "title": "80's",
-        "sources": [
-          {
-            "type": "movie",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "tmdb.discover.movie.80s_movies_kiad_si_v_1980_1989.moo0s82v"
-          },
-          {
-            "type": "series",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "tmdb.discover.series.80s_series_kiad_si_v_1980_1989.moo1phxm"
-          }
-        ],
-        "hideTitle": false,
-        "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/80s.jpg",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/80s.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.80s_movies_kiad_si_v_1980_1989.moo0s82v"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.80s_series_kiad_si_v_1980_1989.moo1phxm"
-          }
-        ],
-        "focusGifEnabled": true
-      },
-      {
-        "id": "folder-dfe2eab3",
-        "title": "90's",
-        "sources": [
-          {
-            "type": "movie",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "tmdb.discover.movie.90s_movies_kiad_si_v_1990_1999.moo0xyxv"
-          },
-          {
-            "type": "series",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "tmdb.discover.series.90s_series_kiad_si_v_1990_1999.moo1rnxb"
-          }
-        ],
-        "hideTitle": false,
-        "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/90s.jpg",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/90s.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.90s_movies_kiad_si_v_1990_1999.moo0xyxv"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.90s_series_kiad_si_v_1990_1999.moo1rnxb"
-          }
-        ],
-        "focusGifEnabled": true
-      },
-      {
-        "id": "folder-47201c3d",
-        "title": "00's",
-        "sources": [
-          {
-            "type": "movie",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "tmdb.discover.movie.00s_movies_kiad_si_v_2000_2009.moo17m8h"
-          },
-          {
-            "type": "series",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "tmdb.discover.series.00s_series_kiad_si_v_2000_2009.moo1toec"
-          }
-        ],
-        "hideTitle": false,
-        "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/00snew.jpg",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/00snew.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.00s_movies_kiad_si_v_2000_2009.moo17m8h"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.00s_series_kiad_si_v_2000_2009.moo1toec"
+            "catalogId": "tmdb.discover.series.2020s_series_kiad_si_v_2020_2029.moo1xk36"
           }
         ],
         "focusGifEnabled": true
@@ -385,38 +274,149 @@
         "focusGifEnabled": true
       },
       {
-        "id": "folder-202d55dd",
-        "title": "2020's",
+        "id": "folder-47201c3d",
+        "title": "00's",
         "sources": [
           {
             "type": "movie",
             "genre": "",
             "addonId": "aio-metadata",
             "provider": "addon",
-            "catalogId": "tmdb.discover.movie.2020s_movies_kiad_si_v_2020_2029.moo1e61j"
+            "catalogId": "tmdb.discover.movie.00s_movies_kiad_si_v_2000_2009.moo17m8h"
           },
           {
             "type": "series",
             "genre": "",
             "addonId": "aio-metadata",
             "provider": "addon",
-            "catalogId": "tmdb.discover.series.2020s_series_kiad_si_v_2020_2029.moo1xk36"
+            "catalogId": "tmdb.discover.series.00s_series_kiad_si_v_2000_2009.moo1toec"
           }
         ],
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/20s.jpg",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/20s.jpg",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/00snew.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/00snew.jpg",
         "catalogSources": [
           {
             "type": "movie",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.movie.2020s_movies_kiad_si_v_2020_2029.moo1e61j"
+            "catalogId": "tmdb.discover.movie.00s_movies_kiad_si_v_2000_2009.moo17m8h"
           },
           {
             "type": "series",
             "addonId": "aio-metadata",
-            "catalogId": "tmdb.discover.series.2020s_series_kiad_si_v_2020_2029.moo1xk36"
+            "catalogId": "tmdb.discover.series.00s_series_kiad_si_v_2000_2009.moo1toec"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-dfe2eab3",
+        "title": "90's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.90s_movies_kiad_si_v_1990_1999.moo0xyxv"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.90s_series_kiad_si_v_1990_1999.moo1rnxb"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/90snew.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/90s.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.90s_movies_kiad_si_v_1990_1999.moo0xyxv"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.90s_series_kiad_si_v_1990_1999.moo1rnxb"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-f0b67db2",
+        "title": "80's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.80s_movies_kiad_si_v_1980_1989.moo0s82v"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.80s_series_kiad_si_v_1980_1989.moo1phxm"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/80snew.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/80s.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.80s_movies_kiad_si_v_1980_1989.moo0s82v"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.80s_series_kiad_si_v_1980_1989.moo1phxm"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-7cd0f553",
+        "title": "70's",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.70s_movies_kiad_si_v_1970_1979.moo2fe0c"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.70s_series_kiad_si_v_1970_1979.moo1ndl9"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/70snew.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/70s.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.70s_movies_kiad_si_v_1970_1979.moo2fe0c"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.70s_series_kiad_si_v_1970_1979.moo1ndl9"
           }
         ],
         "focusGifEnabled": true
