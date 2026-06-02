@@ -271,7 +271,7 @@
         "tileShape": "LANDSCAPE",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2010s.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/2010s.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2010s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/2010s.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/backdrop/2010s.jpg",
         "catalogSources": [
           {
@@ -310,7 +310,7 @@
         "tileShape": "LANDSCAPE",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2000s.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/2000s.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2000s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/2000s.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/backdrop/2000s.jpg",
         "catalogSources": [
           {
@@ -349,7 +349,7 @@
         "tileShape": "LANDSCAPE",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1990s.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/1990s.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1990s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/1990s.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/backdrop/1990s.jpg",
         "catalogSources": [
           {
@@ -388,7 +388,7 @@
         "tileShape": "LANDSCAPE",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1980s.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/1980s.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1980s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/1980s.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/backdrop/1980s.jpg",
         "catalogSources": [
           {
@@ -427,7 +427,7 @@
         "tileShape": "LANDSCAPE",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1970s.webp",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/1970s.webp",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1970s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/1970s.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/backdrop/1970s.jpg",
         "catalogSources": [
           {
@@ -836,7 +836,7 @@
         "coverEmoji": "",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2010s.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2010s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/2010s.png",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/2010s.webp",
         "catalogSources": [],
         "focusGifEnabled": true,
@@ -1030,7 +1030,7 @@
         "coverEmoji": "",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2000s.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/2000s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/2000s.png",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/2000s.webp",
         "catalogSources": [],
         "focusGifEnabled": true,
@@ -1224,7 +1224,7 @@
         "coverEmoji": "",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1990s.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1990s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/1990s.png",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/1990s.webp",
         "catalogSources": [],
         "focusGifEnabled": true,
@@ -1418,7 +1418,7 @@
         "coverEmoji": "",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1980s.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1980s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/1980s.png",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/1980s.webp",
         "catalogSources": [],
         "focusGifEnabled": true,
@@ -1612,7 +1612,7 @@
         "coverEmoji": "",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1970s.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1970s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/1970s.png",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/1970s.webp",
         "catalogSources": [],
         "focusGifEnabled": true,
@@ -1806,7 +1806,7 @@
         "coverEmoji": "",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1960s.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1960s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/1960s.png",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/1960s.webp",
         "catalogSources": [],
         "focusGifEnabled": true,
@@ -2000,7 +2000,7 @@
         "coverEmoji": "",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1950s.webp",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/focused/1950s.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/title/1950s.png",
         "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/1950s.webp",
         "catalogSources": [],
         "focusGifEnabled": true,
