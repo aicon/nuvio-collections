@@ -142,8 +142,8 @@
         "hideTitle": false,
         "tileShape": "LANDSCAPE",
         "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/focused/skyshowtime.gif",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/cover/skyshowtime.jpg",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/title/skyshowtime.jpg",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/cover/skyshowtime.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/title/skyshowtime.png",
         "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/backdrop/skyshowtime.jpg",
         "catalogSources": [
           {
