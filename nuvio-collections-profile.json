@@ -4,45 +4,6 @@
     "title": "Streaming",
     "folders": [
       {
-        "id": "1126866d-5096-422f-b6dd-671ed148b973",
-        "title": "Disney+",
-        "sources": [
-          {
-            "type": "movie",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "streaming.dnp"
-          },
-          {
-            "type": "series",
-            "genre": "",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "streaming.dnp"
-          }
-        ],
-        "hideTitle": false,
-        "tileShape": "LANDSCAPE",
-        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/focused/disney-plus.gif",
-        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/cover/disney-plus.png",
-        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/title/disney-plus.png",
-        "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/backdrop/disney-plus.jpg",
-        "catalogSources": [
-          {
-            "type": "movie",
-            "addonId": "aio-metadata",
-            "catalogId": "streaming.dnp"
-          },
-          {
-            "type": "series",
-            "addonId": "aio-metadata",
-            "catalogId": "streaming.dnp"
-          }
-        ],
-        "focusGifEnabled": true
-      },
-      {
         "id": "451de441-38cf-48bc-9673-b4260af4eea2",
         "title": "Netflix",
         "sources": [
@@ -77,6 +38,45 @@
             "type": "series",
             "addonId": "aio-metadata",
             "catalogId": "streaming.nfx"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "1126866d-5096-422f-b6dd-671ed148b973",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/focused/disney-plus.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/cover/disney-plus.png",
+        "titleLogoUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/title/disney-plus.png",
+        "heroBackdropUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/backdrop/disney-plus.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp"
           }
         ],
         "focusGifEnabled": true
