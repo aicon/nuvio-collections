@@ -192,7 +192,7 @@
     "pinToTop": true,
     "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
-    "backdropImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/streaming.jpg",
+    "backdropImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/streaming/index.jpg",
     "focusGlowEnabled": true
   },
   {
@@ -437,7 +437,7 @@
     "pinToTop": true,
     "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
-    "backdropImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/cover/1970s.webp",
+    "backdropImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/index.jpg",
     "focusGlowEnabled": true
   },
   {
@@ -2000,7 +2000,7 @@
     "pinToTop": true,
     "viewMode": "FOLLOW_LAYOUT",
     "showAllTab": true,
-    "backdropImageUrl": "",
-    "focusGlowEnabled": true
+    "backdropImageUrl": "https://raw.githubusercontent.com/aicon/nuvio-collections/refs/heads/main/decades/index.jpg",
+    "focusGlowEnabled": true    
   }
 ]
