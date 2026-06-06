@@ -1,6 +1,6 @@
 {
   "version": "2.6.4",
-  "exportedAt": "2026-06-06T13:44:15.265Z",
+  "exportedAt": "2026-06-06T15:51:14.410Z",
   "config": {
     "language": "hu-HU",
     "includeAdult": false,
@@ -432,7 +432,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -443,7 +443,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -454,7 +454,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -481,7 +481,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -492,7 +492,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -503,7 +503,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -514,7 +514,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -545,7 +545,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -556,7 +556,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -567,7 +567,7 @@
         "source": "streaming",
         "enabled": true,
         "showInHome": false,
-        "sort": "release_date",
+        "sort": "popularity",
         "sortDirection": "desc",
         "metadata": {}
       },
@@ -1237,13 +1237,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (movie)",
-          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-05-02&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=1970-01-01&primary_release_date.lte=1979-12-31",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=primary_release_date.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-06-06&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=1970-01-01&primary_release_date.lte=1979-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "movie",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "primary_release_date.desc",
               "include_adult": false,
               "without_genres": "27",
               "without_keywords": "315058",
@@ -1258,7 +1258,7 @@
             "formState": {
               "catalogName": "70s Movies | Kiadási év: 1970 - 1979",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "primary_release_date.desc",
               "cacheTTL": 86400,
               "catalogType": "movie",
               "includeGenres": [],
@@ -1276,6 +1276,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -1324,13 +1325,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (tv)",
-          "url": "https://www.themoviedb.org/discover/tv?sort_by=popularity.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=1970-01-01&first_air_date.lte=1979-12-31",
+          "url": "https://www.themoviedb.org/discover/tv?sort_by=first_air_date.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=1970-01-01&first_air_date.lte=1979-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "tv",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "first_air_date.desc",
               "include_adult": false,
               "without_keywords": "315058",
               "watch_region": "HU",
@@ -1343,7 +1344,7 @@
             "formState": {
               "catalogName": "70s Series | Kiadási év: 1970 - 1979",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "first_air_date.desc",
               "cacheTTL": 86400,
               "catalogType": "series",
               "includeGenres": [],
@@ -1356,6 +1357,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -1404,13 +1406,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (movie)",
-          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-05-02&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=1980-01-01&primary_release_date.lte=1989-12-31",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=primary_release_date.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-06-06&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=1980-01-01&primary_release_date.lte=1989-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "movie",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "primary_release_date.desc",
               "include_adult": false,
               "without_genres": "27",
               "without_keywords": "315058",
@@ -1425,7 +1427,7 @@
             "formState": {
               "catalogName": "80s Movies | Kiadási év: 1980 - 1989",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "primary_release_date.desc",
               "cacheTTL": 86400,
               "catalogType": "movie",
               "includeGenres": [],
@@ -1443,6 +1445,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -1491,13 +1494,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (tv)",
-          "url": "https://www.themoviedb.org/discover/tv?sort_by=popularity.desc&include_adult=false&without_keywords=272129&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=1980-01-01&first_air_date.lte=1989-12-31",
+          "url": "https://www.themoviedb.org/discover/tv?sort_by=first_air_date.desc&include_adult=false&without_keywords=272129&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=1980-01-01&first_air_date.lte=1989-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "tv",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "first_air_date.desc",
               "include_adult": false,
               "without_keywords": "272129",
               "watch_region": "HU",
@@ -1510,7 +1513,7 @@
             "formState": {
               "catalogName": "80s Series | Kiadási év: 1980 - 1989",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "first_air_date.desc",
               "cacheTTL": 86400,
               "catalogType": "series",
               "includeGenres": [],
@@ -1523,6 +1526,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -1571,13 +1575,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (movie)",
-          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-05-02&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=1990-01-01&primary_release_date.lte=1999-12-31",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=primary_release_date.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-06-06&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=1990-01-01&primary_release_date.lte=1999-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "movie",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "primary_release_date.desc",
               "include_adult": false,
               "without_genres": "27",
               "without_keywords": "315058",
@@ -1592,7 +1596,7 @@
             "formState": {
               "catalogName": "90s Movies | Kiadási év: 1990 - 1999",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "primary_release_date.desc",
               "cacheTTL": 86400,
               "catalogType": "movie",
               "includeGenres": [],
@@ -1610,6 +1614,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -1658,13 +1663,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (tv)",
-          "url": "https://www.themoviedb.org/discover/tv?sort_by=popularity.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=1990-01-01&first_air_date.lte=1999-12-31",
+          "url": "https://www.themoviedb.org/discover/tv?sort_by=first_air_date.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=1990-01-01&first_air_date.lte=1999-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "tv",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "first_air_date.desc",
               "include_adult": false,
               "without_keywords": "315058",
               "watch_region": "HU",
@@ -1677,7 +1682,7 @@
             "formState": {
               "catalogName": "90s Series | Kiadási év: 1990 - 1999",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "first_air_date.desc",
               "cacheTTL": 86400,
               "catalogType": "series",
               "includeGenres": [],
@@ -1690,6 +1695,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -1738,13 +1744,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (movie)",
-          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-05-02&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=2000-01-01&primary_release_date.lte=2009-12-31",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=primary_release_date.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-06-06&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=2000-01-01&primary_release_date.lte=2009-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "movie",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "primary_release_date.desc",
               "include_adult": false,
               "without_genres": "27",
               "without_keywords": "315058",
@@ -1759,7 +1765,7 @@
             "formState": {
               "catalogName": "00s Movies | Kiadási év: 2000 - 2009",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "primary_release_date.desc",
               "cacheTTL": 86400,
               "catalogType": "movie",
               "includeGenres": [],
@@ -1777,6 +1783,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -1825,13 +1832,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (tv)",
-          "url": "https://www.themoviedb.org/discover/tv?sort_by=popularity.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=2000-01-01&first_air_date.lte=2009-12-31",
+          "url": "https://www.themoviedb.org/discover/tv?sort_by=first_air_date.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=2000-01-01&first_air_date.lte=2009-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "tv",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "first_air_date.desc",
               "include_adult": false,
               "without_keywords": "315058",
               "watch_region": "HU",
@@ -1844,7 +1851,7 @@
             "formState": {
               "catalogName": "00s Series | Kiadási év: 2000 - 2009",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "first_air_date.desc",
               "cacheTTL": 86400,
               "catalogType": "series",
               "includeGenres": [],
@@ -1857,6 +1864,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -1905,13 +1913,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (movie)",
-          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-05-02&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=2010-01-01&primary_release_date.lte=2019-12-31",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=primary_release_date.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-06-06&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=2010-01-01&primary_release_date.lte=2019-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "movie",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "primary_release_date.desc",
               "include_adult": false,
               "without_genres": "27",
               "without_keywords": "315058",
@@ -1926,7 +1934,7 @@
             "formState": {
               "catalogName": "2010s Movies | Kiadási év: 2010 - 2019",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "primary_release_date.desc",
               "cacheTTL": 86400,
               "catalogType": "movie",
               "includeGenres": [],
@@ -1944,6 +1952,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -1992,13 +2001,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (tv)",
-          "url": "https://www.themoviedb.org/discover/tv?sort_by=popularity.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=4&first_air_date.gte=2010-01-01&first_air_date.lte=2019-12-31",
+          "url": "https://www.themoviedb.org/discover/tv?sort_by=first_air_date.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=4&first_air_date.gte=2010-01-01&first_air_date.lte=2019-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "tv",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "first_air_date.desc",
               "include_adult": false,
               "without_keywords": "315058",
               "watch_region": "HU",
@@ -2011,7 +2020,7 @@
             "formState": {
               "catalogName": "2010s Series | Kiadási év: 2010 - 2019",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "first_air_date.desc",
               "cacheTTL": 86400,
               "catalogType": "series",
               "includeGenres": [],
@@ -2024,6 +2033,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -2072,13 +2082,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (movie)",
-          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-05-02&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=2020-01-01&primary_release_date.lte=2029-12-31",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=primary_release_date.desc&include_adult=false&without_genres=27&without_keywords=315058&watch_region=HU&with_release_type=4%7C5%7C6&release_date.lte=2026-06-06&vote_average.gte=7&vote_count.gte=5&primary_release_date.gte=2020-01-01&primary_release_date.lte=2029-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "movie",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "primary_release_date.desc",
               "include_adult": false,
               "without_genres": "27",
               "without_keywords": "315058",
@@ -2093,7 +2103,7 @@
             "formState": {
               "catalogName": "2020s Movies | Kiadási év: 2020 - 2029",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "primary_release_date.desc",
               "cacheTTL": 86400,
               "catalogType": "movie",
               "includeGenres": [],
@@ -2111,6 +2121,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -2159,13 +2170,13 @@
         "cacheTTL": 86400,
         "metadata": {
           "description": "TMDB Discover (tv)",
-          "url": "https://www.themoviedb.org/discover/tv?sort_by=popularity.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=2020-01-01&first_air_date.lte=2029-12-31",
+          "url": "https://www.themoviedb.org/discover/tv?sort_by=first_air_date.desc&include_adult=false&without_keywords=315058&watch_region=HU&with_status=0%7C3%7C4%7C5&vote_average.gte=7&vote_count.gte=5&first_air_date.gte=2020-01-01&first_air_date.lte=2029-12-31",
           "discover": {
             "version": 2,
             "source": "tmdb",
             "mediaType": "tv",
             "params": {
-              "sort_by": "popularity.desc",
+              "sort_by": "first_air_date.desc",
               "include_adult": false,
               "without_keywords": "315058",
               "watch_region": "HU",
@@ -2178,7 +2189,7 @@
             "formState": {
               "catalogName": "2020s Series | Kiadási év: 2020 - 2029",
               "discoverSource": "tmdb",
-              "sortBy": "popularity.desc",
+              "sortBy": "first_air_date.desc",
               "cacheTTL": 86400,
               "catalogType": "series",
               "includeGenres": [],
@@ -2191,6 +2202,7 @@
               "certificationMode": "exact",
               "includeAdult": false,
               "releasedOnly": true,
+              "tmdbTvStatuses": [],
               "selectedPeople": [],
               "peopleJoinMode": "or",
               "withCompanies": [],
@@ -8444,6 +8456,894 @@
           "hideWatchedTrakt": false,
           "hideWatchedMdblist": false
         }
+      },
+      {
+        "id": "tmdb.discover.movie.nepszeru_2020_as_evekbeli_filmek.colbe224f",
+        "type": "movie",
+        "name": "Népszerű 2020-as évekbeli filmek",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=200&primary_release_date.gte=2020-01-01&primary_release_date.lte=2029-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 200,
+              "primary_release_date.gte": "2020-01-01",
+              "primary_release_date.lte": "2029-12-31"
+            },
+            "formState": {
+              "catalogName": "Népszerű 2020-as évekbeli filmek",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 200,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2020-01-01",
+              "primaryReleaseTo": "2029-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.a_2020_as_evek_legnepszerubb_filmjei.col461989",
+        "type": "movie",
+        "name": "A 2020-as évek legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=2000&primary_release_date.gte=2020-01-01&primary_release_date.lte=2029-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 2000,
+              "primary_release_date.gte": "2020-01-01",
+              "primary_release_date.lte": "2029-12-31"
+            },
+            "formState": {
+              "catalogName": "A 2020-as évek legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 2000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2020-01-01",
+              "primaryReleaseTo": "2029-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2020_legnepszerubb_filmjei.col782aa2",
+        "type": "movie",
+        "name": "2020 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2020-01-01&primary_release_date.lte=2020-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2020-01-01",
+              "primary_release_date.lte": "2020-12-31"
+            },
+            "formState": {
+              "catalogName": "2020 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2020-01-01",
+              "primaryReleaseTo": "2020-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2021_legnepszerubb_filmjei.cole585d0",
+        "type": "movie",
+        "name": "2021 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2021-01-01&primary_release_date.lte=2021-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2021-01-01",
+              "primary_release_date.lte": "2021-12-31"
+            },
+            "formState": {
+              "catalogName": "2021 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2021-01-01",
+              "primaryReleaseTo": "2021-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2022_legnepszerubb_filmjei.colfd8e1c",
+        "type": "movie",
+        "name": "2022 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2022-01-01&primary_release_date.lte=2022-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2022-01-01",
+              "primary_release_date.lte": "2022-12-31"
+            },
+            "formState": {
+              "catalogName": "2022 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2022-01-01",
+              "primaryReleaseTo": "2022-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2023_legnepszerubb_filmjei.colc3af4a",
+        "type": "movie",
+        "name": "2023 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2023-01-01&primary_release_date.lte=2023-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2023-01-01",
+              "primary_release_date.lte": "2023-12-31"
+            },
+            "formState": {
+              "catalogName": "2023 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2023-01-01",
+              "primaryReleaseTo": "2023-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2024_legnepszerubb_filmjei.cold8b62a",
+        "type": "movie",
+        "name": "2024 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2024-01-01&primary_release_date.lte=2024-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2024-01-01",
+              "primary_release_date.lte": "2024-12-31"
+            },
+            "formState": {
+              "catalogName": "2024 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2024-01-01",
+              "primaryReleaseTo": "2024-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2025_legnepszerubb_filmjei.col67501e",
+        "type": "movie",
+        "name": "2025 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2025-01-01&primary_release_date.lte=2025-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2025-01-01",
+              "primary_release_date.lte": "2025-12-31"
+            },
+            "formState": {
+              "catalogName": "2025 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2025-01-01",
+              "primaryReleaseTo": "2025-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2026_legnepszerubb_filmjei.coldad98b",
+        "type": "movie",
+        "name": "2026 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2026-01-01&primary_release_date.lte=2026-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2026-01-01",
+              "primary_release_date.lte": "2026-12-31"
+            },
+            "formState": {
+              "catalogName": "2026 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2026-01-01",
+              "primaryReleaseTo": "2026-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2027_legnepszerubb_filmjei.col6754e0",
+        "type": "movie",
+        "name": "2027 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2027-01-01&primary_release_date.lte=2027-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2027-01-01",
+              "primary_release_date.lte": "2027-12-31"
+            },
+            "formState": {
+              "catalogName": "2027 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2027-01-01",
+              "primaryReleaseTo": "2027-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2028_legnepszerubb_filmjei.col191197",
+        "type": "movie",
+        "name": "2028 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2028-01-01&primary_release_date.lte=2028-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2028-01-01",
+              "primary_release_date.lte": "2028-12-31"
+            },
+            "formState": {
+              "catalogName": "2028 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2028-01-01",
+              "primaryReleaseTo": "2028-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
+      },
+      {
+        "id": "tmdb.discover.movie.2029_legnepszerubb_filmjei.colf09eea",
+        "type": "movie",
+        "name": "2029 legnépszerűbb filmjei",
+        "enabled": true,
+        "showInHome": false,
+        "source": "tmdb",
+        "cacheTTL": 86400,
+        "metadata": {
+          "description": "TMDB Discover (movie)",
+          "url": "https://www.themoviedb.org/discover/movie?sort_by=popularity.desc&include_adult=false&with_original_language=en&vote_count.gte=1000&primary_release_date.gte=2029-01-01&primary_release_date.lte=2029-12-31",
+          "discover": {
+            "version": 2,
+            "source": "tmdb",
+            "mediaType": "movie",
+            "params": {
+              "sort_by": "popularity.desc",
+              "include_adult": false,
+              "with_original_language": "en",
+              "vote_count.gte": 1000,
+              "primary_release_date.gte": "2029-01-01",
+              "primary_release_date.lte": "2029-12-31"
+            },
+            "formState": {
+              "catalogName": "2029 legnépszerűbb filmjei",
+              "discoverSource": "tmdb",
+              "sortBy": "popularity.desc",
+              "cacheTTL": 86400,
+              "catalogType": "movie",
+              "includeGenres": [],
+              "excludeGenres": [],
+              "genreJoinMode": "or",
+              "originalLanguage": "en",
+              "originCountry": "",
+              "certificationCountry": "",
+              "certificationValue": "",
+              "certificationMode": "exact",
+              "includeAdult": false,
+              "releasedOnly": false,
+              "selectedPeople": [],
+              "peopleJoinMode": "or",
+              "withCompanies": [],
+              "withoutCompanies": [],
+              "companyJoinMode": "or",
+              "withKeywords": [],
+              "withoutKeywords": [],
+              "keywordJoinMode": "or",
+              "watchRegion": "",
+              "watchProviders": [],
+              "providerJoinMode": "or",
+              "voteAverageRange": [
+                0,
+                10
+              ],
+              "voteCountMin": 1000,
+              "runtimeRange": [
+                0,
+                400
+              ],
+              "primaryReleaseFrom": "2029-01-01",
+              "primaryReleaseTo": "2029-12-31",
+              "movieDatePreset": "custom",
+              "firstAirFrom": "",
+              "firstAirTo": "",
+              "seriesDatePreset": "clear",
+              "airDateFrom": "",
+              "airDateTo": "",
+              "releaseRegion": ""
+            }
+          },
+          "hideWatchedTrakt": false,
+          "hideWatchedMdblist": false
+        }
       }
     ],
     "search": {
@@ -8515,7 +9415,7 @@
   },
   "metadata": {
     "apiKeysExcluded": true,
-    "totalCatalogs": 207,
-    "enabledCatalogs": 112
+    "totalCatalogs": 219,
+    "enabledCatalogs": 124
   }
 }
