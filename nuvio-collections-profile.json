@@ -1235,182 +1235,88 @@
         "title": "80s Movies",
         "sources": [
           {
-            "title": "Népszerű 1980-as évekbeli filmek",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 200,
-              "releaseDateGte": "1980-01-01",
-              "releaseDateLte": "1989-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.nepszeru_1980_as_evekbeli_filmek.col7fab65"
           },
           {
-            "title": "A 1980-as évek legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 2000,
-              "releaseDateGte": "1980-01-01",
-              "releaseDateLte": "1989-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.a_1980_as_evek_legnepszerubb_filmjei.colaa3256"
           },
           {
-            "title": "1980 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1980,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1980-01-01",
-              "releaseDateLte": "1980-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1980_legnepszerubb_filmjei.colce8587"
           },
           {
-            "title": "1981 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1981,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1981-01-01",
-              "releaseDateLte": "1981-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1981_legnepszerubb_filmjei.cole9225a"
           },
           {
-            "title": "1982 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1982,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1982-01-01",
-              "releaseDateLte": "1982-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1982_legnepszerubb_filmjei.col16b620"
           },
           {
-            "title": "1983 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1983,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1983-01-01",
-              "releaseDateLte": "1983-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1983_legnepszerubb_filmjei.cold9999e"
           },
           {
-            "title": "1984 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1984,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1984-01-01",
-              "releaseDateLte": "1984-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1984_legnepszerubb_filmjei.col687a7f"
           },
           {
-            "title": "1985 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1985,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1985-01-01",
-              "releaseDateLte": "1985-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1985_legnepszerubb_filmjei.cole79627"
           },
           {
-            "title": "1986 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1986,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1986-01-01",
-              "releaseDateLte": "1986-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1986_legnepszerubb_filmjei.cola781fc"
           },
           {
-            "title": "1987 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1987,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1987-01-01",
-              "releaseDateLte": "1987-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1987_legnepszerubb_filmjei.cold8181f"
           },
           {
-            "title": "1988 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1988,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1988-01-01",
-              "releaseDateLte": "1988-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1988_legnepszerubb_filmjei.col4ecaa6"
           },
           {
-            "title": "1989 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1989,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1989-01-01",
-              "releaseDateLte": "1989-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1989_legnepszerubb_filmjei.col49546d"
           }
         ],
         "hideTitle": true,
