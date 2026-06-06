@@ -1429,182 +1429,88 @@
         "title": "70s Movies",
         "sources": [
           {
-            "title": "Népszerű 1970-es évekbeli filmek",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 200,
-              "releaseDateGte": "1970-01-01",
-              "releaseDateLte": "1979-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.nepszeru_1970_es_evekbeli_filmek.colb8d48f"
           },
           {
-            "title": "A 1970-es évek legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 2000,
-              "releaseDateGte": "1970-01-01",
-              "releaseDateLte": "1979-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.a_1970_es_evek_legnepszerubb_filmjei.colf1eeda"
           },
           {
-            "title": "1970 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1970,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1970-01-01",
-              "releaseDateLte": "1970-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1970_legnepszerubb_filmjei.col13f2af"
           },
           {
-            "title": "1971 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1971,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1971-01-01",
-              "releaseDateLte": "1971-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1971_legnepszerubb_filmjei.col9708fc"
           },
           {
-            "title": "1972 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1972,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1972-01-01",
-              "releaseDateLte": "1972-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1972_legnepszerubb_filmjei.col126872"
           },
           {
-            "title": "1973 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1973,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1973-01-01",
-              "releaseDateLte": "1973-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1973_legnepszerubb_filmjei.col1c963d"
           },
           {
-            "title": "1974 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1974,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1974-01-01",
-              "releaseDateLte": "1974-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1974_legnepszerubb_filmjei.cold62461"
           },
           {
-            "title": "1975 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1975,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1975-01-01",
-              "releaseDateLte": "1975-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1975_legnepszerubb_filmjei.coldeb11d"
           },
           {
-            "title": "1976 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1976,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1976-01-01",
-              "releaseDateLte": "1976-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1976_legnepszerubb_filmjei.col6e0042"
           },
           {
-            "title": "1977 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1977,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1977-01-01",
-              "releaseDateLte": "1977-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1977_legnepszerubb_filmjei.col282286"
           },
           {
-            "title": "1978 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1978,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1978-01-01",
-              "releaseDateLte": "1978-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1978_legnepszerubb_filmjei.cola6cb35"
           },
           {
-            "title": "1979 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1979,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1979-01-01",
-              "releaseDateLte": "1979-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1979_legnepszerubb_filmjei.colee1ce1"
           }
         ],
         "hideTitle": true,
