@@ -1623,182 +1623,88 @@
         "title": "60s Movies",
         "sources": [
           {
-            "title": "Népszerű 1960-as évekbeli filmek",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 200,
-              "releaseDateGte": "1960-01-01",
-              "releaseDateLte": "1969-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.nepszeru_1960_as_evekbeli_filmek.col97025a"
           },
           {
-            "title": "A 1960-as évek legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 2000,
-              "releaseDateGte": "1960-01-01",
-              "releaseDateLte": "1969-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.a_1960_as_evek_legnepszerubb_filmjei.cola722ac"
           },
           {
-            "title": "1960 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1960,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1960-01-01",
-              "releaseDateLte": "1960-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1960_legnepszerubb_filmjei.col960611"
           },
           {
-            "title": "1961 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1961,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1961-01-01",
-              "releaseDateLte": "1961-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1961_legnepszerubb_filmjei.col9cd793"
           },
           {
-            "title": "1962 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1962,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1962-01-01",
-              "releaseDateLte": "1962-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1962_legnepszerubb_filmjei.col68be59"
           },
           {
-            "title": "1963 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1963,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1963-01-01",
-              "releaseDateLte": "1963-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1963_legnepszerubb_filmjei.col04457a"
           },
           {
-            "title": "1964 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1964,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1964-01-01",
-              "releaseDateLte": "1964-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1964_legnepszerubb_filmjei.colf33d7f"
           },
           {
-            "title": "1965 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1965,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1965-01-01",
-              "releaseDateLte": "1965-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1965_legnepszerubb_filmjei.coldab825"
           },
           {
-            "title": "1966 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1966,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1966-01-01",
-              "releaseDateLte": "1966-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1966_legnepszerubb_filmjei.colef44c2"
           },
           {
-            "title": "1967 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1967,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1967-01-01",
-              "releaseDateLte": "1967-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1967_legnepszerubb_filmjei.cole2c104"
           },
           {
-            "title": "1968 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1968,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1968-01-01",
-              "releaseDateLte": "1968-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1968_legnepszerubb_filmjei.colcf33e6"
           },
           {
-            "title": "1969 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1969,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1969-01-01",
-              "releaseDateLte": "1969-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1969_legnepszerubb_filmjei.col895937"
           }
         ],
         "hideTitle": true,
