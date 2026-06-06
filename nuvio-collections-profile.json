@@ -459,182 +459,88 @@
         "title": "2020s Movies",
         "sources": [
           {
-            "title": "Népszerű 2020-as évekbeli filmek",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 200,
-              "releaseDateGte": "2020-01-01",
-              "releaseDateLte": "2029-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.nepszeru_2020_as_evekbeli_filmek.colbe224f"
           },
           {
-            "title": "A 2020-as évek legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 2000,
-              "releaseDateGte": "2020-01-01",
-              "releaseDateLte": "2029-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.a_2020_as_evek_legnepszerubb_filmjei.col461989"
           },
           {
-            "title": "2020 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2020,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2020-01-01",
-              "releaseDateLte": "2020-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2020_legnepszerubb_filmjei.col782aa2"
           },
           {
-            "title": "2021 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2021,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2021-01-01",
-              "releaseDateLte": "2021-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2021_legnepszerubb_filmjei.cole585d0"
           },
           {
-            "title": "2022 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2022,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2022-01-01",
-              "releaseDateLte": "2022-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2022_legnepszerubb_filmjei.colfd8e1c"
           },
           {
-            "title": "2023 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2023,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2023-01-01",
-              "releaseDateLte": "2023-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2023_legnepszerubb_filmjei.colc3af4a"
           },
           {
-            "title": "2024 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2024,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2024-01-01",
-              "releaseDateLte": "2024-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2024_legnepszerubb_filmjei.cold8b62a"
           },
           {
-            "title": "2025 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2025,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2025-01-01",
-              "releaseDateLte": "2025-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2025_legnepszerubb_filmjei.col67501e"
           },
           {
-            "title": "2026 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2026,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2026-01-01",
-              "releaseDateLte": "2026-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2026_legnepszerubb_filmjei.coldad98b"
           },
           {
-            "title": "2027 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2027,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2027-01-01",
-              "releaseDateLte": "2027-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2027_legnepszerubb_filmjei.col6754e0"
           },
           {
-            "title": "2028 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2028,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2028-01-01",
-              "releaseDateLte": "2028-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2028_legnepszerubb_filmjei.col191197"
           },
           {
-            "title": "2029 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2029,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2029-01-01",
-              "releaseDateLte": "2029-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2029_legnepszerubb_filmjei.colf09eea"
           }
         ],
         "hideTitle": true,
@@ -653,182 +559,88 @@
         "title": "10s Movies",
         "sources": [
           {
-            "title": "Népszerű 2010-es évekbeli filmek",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 200,
-              "releaseDateGte": "2010-01-01",
-              "releaseDateLte": "2019-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.nepszeru_2010_es_evekbeli_filmek.col27a93d"
           },
           {
-            "title": "A 2010-es évek legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 2000,
-              "releaseDateGte": "2010-01-01",
-              "releaseDateLte": "2019-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.a_2010_es_evek_legnepszerubb_filmjei.col67dd08"
           },
           {
-            "title": "2010 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2010,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2010-01-01",
-              "releaseDateLte": "2010-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2010_legnepszerubb_filmjei.col0f12d0"
           },
           {
-            "title": "2011 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2011,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2011-01-01",
-              "releaseDateLte": "2011-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2011_legnepszerubb_filmjei.col9e7a97"
           },
           {
-            "title": "2012 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2012,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2012-01-01",
-              "releaseDateLte": "2012-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2012_legnepszerubb_filmjei.cole3b4b9"
           },
           {
-            "title": "2013 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2013,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2013-01-01",
-              "releaseDateLte": "2013-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2013_legnepszerubb_filmjei.col972c9c"
           },
           {
-            "title": "2014 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2014,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2014-01-01",
-              "releaseDateLte": "2014-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2014_legnepszerubb_filmjei.colee894e"
           },
           {
-            "title": "2015 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2015,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2015-01-01",
-              "releaseDateLte": "2015-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2015_legnepszerubb_filmjei.col588773"
           },
           {
-            "title": "2016 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2016,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2016-01-01",
-              "releaseDateLte": "2016-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2016_legnepszerubb_filmjei.col9190c6"
           },
           {
-            "title": "2017 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2017,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2017-01-01",
-              "releaseDateLte": "2017-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2017_legnepszerubb_filmjei.cola44dd1"
           },
           {
-            "title": "2018 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2018,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2018-01-01",
-              "releaseDateLte": "2018-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2018_legnepszerubb_filmjei.cold6837a"
           },
           {
-            "title": "2019 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2019,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2019-01-01",
-              "releaseDateLte": "2019-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2019_legnepszerubb_filmjei.colb093a5"
           }
         ],
         "hideTitle": true,
@@ -847,182 +659,88 @@
         "title": "00s Movies",
         "sources": [
           {
-            "title": "Népszerű 2000-es évekbeli filmek",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 200,
-              "releaseDateGte": "2000-01-01",
-              "releaseDateLte": "2009-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.nepszeru_2000_es_evekbeli_filmek.colc8b6ce"
           },
           {
-            "title": "A 2000-es évek legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 2000,
-              "releaseDateGte": "2000-01-01",
-              "releaseDateLte": "2009-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.a_2000_es_evek_legnepszerubb_filmjei.col6a998b"
           },
           {
-            "title": "2000 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2000,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2000-01-01",
-              "releaseDateLte": "2000-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2000_legnepszerubb_filmjei.col2d6675"
           },
           {
-            "title": "2001 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2001,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2001-01-01",
-              "releaseDateLte": "2001-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2001_legnepszerubb_filmjei.col1b881a"
           },
           {
-            "title": "2002 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2002,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2002-01-01",
-              "releaseDateLte": "2002-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2002_legnepszerubb_filmjei.col007c75"
           },
           {
-            "title": "2003 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2003,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2003-01-01",
-              "releaseDateLte": "2003-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2003_legnepszerubb_filmjei.col0074b4"
           },
           {
-            "title": "2004 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2004,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2004-01-01",
-              "releaseDateLte": "2004-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2004_legnepszerubb_filmjei.col72ad64"
           },
           {
-            "title": "2005 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2005,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2005-01-01",
-              "releaseDateLte": "2005-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2005_legnepszerubb_filmjei.coldbad19"
           },
           {
-            "title": "2006 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2006,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2006-01-01",
-              "releaseDateLte": "2006-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2006_legnepszerubb_filmjei.col43d60b"
           },
           {
-            "title": "2007 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2007,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2007-01-01",
-              "releaseDateLte": "2007-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2007_legnepszerubb_filmjei.colda9c8a"
           },
           {
-            "title": "2008 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2008,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2008-01-01",
-              "releaseDateLte": "2008-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2008_legnepszerubb_filmjei.col3d531f"
           },
           {
-            "title": "2009 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 2009,
-              "voteCountGte": 1000,
-              "releaseDateGte": "2009-01-01",
-              "releaseDateLte": "2009-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.2009_legnepszerubb_filmjei.col5ff865"
           }
         ],
         "hideTitle": true,
@@ -1041,182 +759,88 @@
         "title": "90s Movies",
         "sources": [
           {
-            "title": "Népszerű 1990-es évekbeli filmek",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 200,
-              "releaseDateGte": "1990-01-01",
-              "releaseDateLte": "1999-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.nepszeru_1990_es_evekbeli_filmek.cola53ae9"
           },
           {
-            "title": "A 1990-es évek legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "voteCountGte": 2000,
-              "releaseDateGte": "1990-01-01",
-              "releaseDateLte": "1999-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.a_1990_es_evek_legnepszerubb_filmjei.col921101"
           },
           {
-            "title": "1990 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1990,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1990-01-01",
-              "releaseDateLte": "1990-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1990_legnepszerubb_filmjei.col3a5019"
           },
           {
-            "title": "1991 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1991,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1991-01-01",
-              "releaseDateLte": "1991-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1991_legnepszerubb_filmjei.col7b0904"
           },
           {
-            "title": "1992 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1992,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1992-01-01",
-              "releaseDateLte": "1992-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1992_legnepszerubb_filmjei.colfb9350"
           },
           {
-            "title": "1993 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1993,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1993-01-01",
-              "releaseDateLte": "1993-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1993_legnepszerubb_filmjei.col709c45"
           },
           {
-            "title": "1994 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1994,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1994-01-01",
-              "releaseDateLte": "1994-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1994_legnepszerubb_filmjei.cola77d0a"
           },
           {
-            "title": "1995 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1995,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1995-01-01",
-              "releaseDateLte": "1995-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1995_legnepszerubb_filmjei.col0f3a5c"
           },
           {
-            "title": "1996 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1996,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1996-01-01",
-              "releaseDateLte": "1996-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1996_legnepszerubb_filmjei.colc39109"
           },
           {
-            "title": "1997 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1997,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1997-01-01",
-              "releaseDateLte": "1997-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1997_legnepszerubb_filmjei.cole7db59"
           },
           {
-            "title": "1998 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1998,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1998-01-01",
-              "releaseDateLte": "1998-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1998_legnepszerubb_filmjei.col9994bb"
           },
           {
-            "title": "1999 legnépszerűbb filmjei",
-            "sortBy": "popularity.desc",
-            "tmdbId": null,
-            "filters": {
-              "year": 1999,
-              "voteCountGte": 1000,
-              "releaseDateGte": "1999-01-01",
-              "releaseDateLte": "1999-12-31",
-              "withOriginalLanguage": "en"
-            },
-            "provider": "tmdb",
-            "mediaType": "MOVIE",
-            "tmdbSourceType": "DISCOVER"
+            "type": "movie",
+            "genre": "",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.1999_legnepszerubb_filmjei.col092d11"
           }
         ],
         "hideTitle": true,
